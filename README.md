@@ -1,6 +1,6 @@
 # Walson Argan RENE
 
-**Software Engineering Student @ EPITA** *Currently exploring AI, Low-level programming, and Game Engine Architecture.*
+**Software Engineering Student @ EPITA** 
 
 ---
 
